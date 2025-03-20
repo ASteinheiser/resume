@@ -1,0 +1,4 @@
+# LaTeX PDF generation output files
+*.aux
+*.log
+*.out
